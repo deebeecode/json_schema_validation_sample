@@ -1,0 +1,16 @@
+{
+    "user_id": 2341,
+    "first_name": "Camala",
+    "last_name": "Kilian",
+    "accounts": [
+      {
+        "last_four": 3214,
+        "type": "visa"
+      },
+      {
+        "last_four": 8723,
+        "type": "master"
+      }
+    ],
+    "user_type": "business"
+  }
